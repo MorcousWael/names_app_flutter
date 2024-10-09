@@ -6,6 +6,8 @@ this is a refreshing project for me after returning to flutter.
 ![Alt Text](relative/path/to/image)
 
 # Home:
-![home](screenshots/home.png)
+<img src="screenshots/home.png" alt="home" width="500">
+
 # Favorites:
-![favorites](screenshots/Screenshot_20241009_161646.png)
+<img src="screenshots/Screenshot_20241009_161646.png" alt="favorites" width="500">
+
