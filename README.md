@@ -1,16 +1,11 @@
 # names_app
 
-A new Flutter project. for getting random names and saving them.
+A new Flutter project. for getting random names and adding them to favorites.
+this is a refreshing project for me after returning to flutter.
+## Screenshots
+![Alt Text](relative/path/to/image)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Home:
+![home](screenshots/home.png)
+# Favorites:
+![favorites](screenshots/Screenshot_20241009_161646.png)
